@@ -10,8 +10,6 @@ I treat this GitHub as a public record of my growth, not a showcase of perfectio
 🔧 Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" /> </p>
 
-(Ovo je početni stack — kasnije dodajemo ML knjižnice kao što su Pandas, NumPy, PyTorch, TensorFlow)
-
 📌 Pinned Work
 🔹 python-basic-tasks
 
